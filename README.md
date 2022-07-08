@@ -26,3 +26,4 @@ These are forms which provide their own purpose. For example, the form below all
 
 Sub Forms like these also support error handling, for example you create a new item without a name. 
 
+![AddNewItemError](https://user-images.githubusercontent.com/97055625/178075048-24aceccb-2f96-48b3-a60f-5ff30bcb78cd.png)
