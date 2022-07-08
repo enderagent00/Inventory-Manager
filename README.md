@@ -14,4 +14,14 @@ This is a Windows Forms applications which uses a database to store Items. It is
 - Cannot have an item with the same name
 - Stores items in a local database
 
-![Screenshot (1669)](https://user-images.githubusercontent.com/97055625/178074092-0c77777c-7536-4505-ac1d-66d3a617aec6.png)
+### Inventory Manager Form
+
+![Screenshot](https://user-images.githubusercontent.com/97055625/178074827-d6209df0-9b04-4dee-a90c-08b39e2f20b4.png)
+
+### Inventory Manager Sub Forms
+
+These are forms which provide their own purpose. For example, the form below allows the user to add a new item to the table. There are other forms like editing an item or just viewing it. This form will then tell the main form an item has been created. 
+
+
+Sub Forms like these also support error handling, for example you create a new item without a name. 
+
