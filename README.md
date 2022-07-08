@@ -22,6 +22,7 @@ This is a Windows Forms applications which uses a database to store Items. It is
 
 These are forms which provide their own purpose. For example, the form below allows the user to add a new item to the table. There are other forms like editing an item or just viewing it. This form will then tell the main form an item has been created. 
 
+![AddNewItem](https://user-images.githubusercontent.com/97055625/178075018-50959e6b-50ab-417b-af57-5d9ef4e188d6.png)
 
 Sub Forms like these also support error handling, for example you create a new item without a name. 
 
