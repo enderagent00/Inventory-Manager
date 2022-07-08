@@ -14,4 +14,4 @@ This is a Windows Forms applications which uses a database to store Items. It is
 - Cannot have an item with the same name
 - Stores items in a local database
 
-
+![Screenshot (1669)](https://user-images.githubusercontent.com/97055625/178074092-0c77777c-7536-4505-ac1d-66d3a617aec6.png)
